@@ -1,1 +1,1 @@
-# python-exploring-battle-1
+# Learning Challenge - Season 2
